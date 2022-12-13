@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [jacksonduarte.com.br](jacksonduarte.com.br)
+- 👨‍💻 All of my projects are available at [jacksonduarte.com.br](http://jacksonduarte.com.br)
 
 - 📫 How to reach me **jacksonduarte@live.com**
 
